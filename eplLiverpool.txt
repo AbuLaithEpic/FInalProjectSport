@@ -1,0 +1,12 @@
+Name              , Position  , No., Age
+Mo Salah          / Forward   / 11 / 28
+Sadio Mane        / Forward   / 10 / 28
+Roberto Firmino   / Forward   / 9  / 29
+Jordan Henderson  / Midfielder/ 14 / 30
+James Milner      / Midfielder/ 7  / 35
+Curtis Jones      / Midfielder/ 17 / 19
+Andrew Robertson  / Defender  / 26 / 26
+Fabinho           / Defender  / 3  / 27
+Nathaniel Phillips/ Defender  / 47 / 23
+Alexander-Arnold  / Defender  / 66 / 22
+Alisson Becker    /Keeper     / 1  / 28   
